@@ -1,0 +1,36 @@
+
+.root{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Veranda";
+    -fx-base: #FF2D00;
+    -fx-background: #000000;
+}
+
+#backColourPicker, #wallColourPicker, #cookieColourPicker{
+    -fx-background: white;
+    -fx-base: white;
+}
+
+#setStart, #startButton, #easy, #middle, #hard{
+    -fx-background: #FDEE03;
+    -fx-base: #FDEE03;
+}
+
+#total, #totalScore, #highsc{
+    -fx-font-size: 14pt;
+    -fx-text-fill: #FDEE03;
+}
+
+#ursc{
+    -fx-font-size: 14pt;
+    -fx-text-fill: #FF2D00;
+}
+
+#validate{
+    -fx-font-size: 11pt;
+    -fx-text-fill: RED;
+}
+
+#username{
+    -fx-base: WHITE;
+}
